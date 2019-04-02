@@ -184,3 +184,10 @@ consol k/v store
 deployed with services
 
 secrets in vault  
+
+## Turing complete
+
+integer optimization problem
+
+factor graph
+
