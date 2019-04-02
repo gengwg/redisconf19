@@ -130,3 +130,57 @@ upper level of abstraction.
 game industry use redis or die?
 
 ## Redis replication
+
+## microservices at credit karma
+
+php monolithic --> 900 micro services.
+
+client side vs service mesh
+
+consol for service discovery
+
+- automate first
+- think and plan ahead.
+- maintainance overhead will grow exponentially.
+
+orchestration frameworks
+
+- *k8s* 
+- swarm
+- nomad
+
+helm
+
+### observability
+
+### env parity
+
+unsolved
+
+- shared staging env
+- mock services
+- load dependencies automatically
+    - dependeny tree
+
+tool integration is hard
+
+independent development.
+
+one db per service.
+
+large logical mysql cluster on bm.
+
+85% scala
+node picking up
+
+testing  
+team owns  
+how much tests?  
+central pipeline compliance  
+dev kube  
+
+config  
+consol k/v store  
+deployed with services
+
+secrets in vault  
