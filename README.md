@@ -96,3 +96,37 @@ customer controller
 
 stateful set controller
 
+## Day 2
+
+## Gerneral Session
+
+io-thread enabled
+
+acs.
+security.
+operational safety.
+bitmap at runtime.
+
+redis 6
+
+### Google cloud ceo
+
+oracle 22 years.
+
+- unified platform
+- different access mothold
+
+learn 18 databases?
+
+data powered.
+managed db. tune perfo.
+serverless platform 
+
+higher level, higher contribution.
+upper level of abstraction.
+
+### games
+
+game industry use redis or die?
+
+## Redis replication
